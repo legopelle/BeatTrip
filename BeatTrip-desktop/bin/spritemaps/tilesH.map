@@ -1,0 +1,50 @@
+
+tilesH.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beatbox
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+beatboxOff
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile_dirt_32x64-01
+  rotate: false
+  xy: 128, 0
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+nulltile
+  rotate: false
+  xy: 160, 56
+  size: 32, 8
+  split: 2, 2, 1, 1
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+tilebeat1
+  rotate: false
+  xy: 160, 48
+  size: 32, 8
+  split: 2, 2, 1, 1
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+tilebeat4
+  rotate: false
+  xy: 192, 56
+  size: 32, 8
+  split: 2, 2, 5, 1
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
